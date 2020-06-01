@@ -15,7 +15,7 @@
 5. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/66208126/83377083-743f6d80-a40f-11ea-9f26-4b2574dcb1ff.png)
 
-/////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 1. Model2
 ![image](https://user-images.githubusercontent.com/66208126/83377146-a94bc000-a40f-11ea-9b8c-2eae4a934521.png)
 ![image](https://user-images.githubusercontent.com/66208126/83377167-bc5e9000-a40f-11ea-8185-6dc85a3e2629.png)
@@ -32,7 +32,7 @@
 5. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/66208126/83377243-f92a8700-a40f-11ea-9405-81a3f270174e.png)
 
-//////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 1. Model3
 ![image](https://user-images.githubusercontent.com/66208126/83377272-0f384780-a410-11ea-8cb8-a13b729de148.png)
 ![image](https://user-images.githubusercontent.com/66208126/83377284-18c1af80-a410-11ea-83e6-779167c6c3f1.png)
